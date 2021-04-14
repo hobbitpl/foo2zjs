@@ -1,3 +1,7 @@
+    It is a copy of orginal foo2zjs code since source webapage doesn't exist.
+    
+    For using HP LaserJet 1000 please copy firmware file from /firmware directory to your /usr/share/foo2zjs/firmware/ and remember to: 'make install hot-plug'
+    
     ---------------------------------------------------------------------
     Please read the "INSTALL" file to see how to install this software.
     Please read the "INSTALL" file to see how to install this software.
